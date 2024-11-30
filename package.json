@@ -14,16 +14,16 @@
     "@heroicons/react": "^1.0.4",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
-    "next": "^11.0.0",
-    "react": "17.0.2",
+    "next": "^15.0.3",
+    "react": "^18.3.1",
     "react-dom": "17.0.2",
-    "remark": "^12.0.0",
-    "remark-html": "^12.0.0"
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "autoprefixer": "^10.3.3",
-    "cypress": "^10.4.0",
+    "cypress": "^13.16.0",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.9"
   }
